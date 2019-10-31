@@ -1,0 +1,5 @@
+vtk=8.2.0
+pyvista
+colorcet
+netCDF4
+tqdm
