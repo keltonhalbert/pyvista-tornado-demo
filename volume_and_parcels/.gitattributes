@@ -1,0 +1,2 @@
+30m_tkeparcels_small.nc filter=lfs diff=lfs merge=lfs -text
+30m_tke_small.04200.166600.nc filter=lfs diff=lfs merge=lfs -text
