@@ -16,5 +16,7 @@ Requires:
 
 Then open up the Jupyter notebook to get something like the following. FYI: change the `notebook=True` arguments for the `Plotter` class to `False` to have a pop-out, interactive scene.
 
+## NOTE: If git LFS isn't letting you download the data, I've uploaded a tarball that can be dowloaded ![here](https://drive.google.com/file/d/1BNBEC21WoaNB5WA40wewDZkhUVm7tkRF/view?usp=sharing)
+
 ![image](./images/example1.png)
 ![image](./images/example2.png)
